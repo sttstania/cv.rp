@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,400;0,700;1,400&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@font-face {
+    font-family: 'Raleway';
+    src: url('assets/fonts/raleway/Raleway.ttf');
+}
+
+
+body{
+    font-family: "Lato", sans-serif;
+    font-size: 1em;
+}
+
+
+h1, h2, h3 {
+    font-family: "Raleway", sans-serif; 
+}
+
+
+#profile{
+    color: white;
+}
+
+a:link{
+    color: white;
+    font-style: italic;
+}
+
+a:visited {
+    color: white;
+}
+
+blockquote{
+    text-indent: 30px;
+    color: white;
+}
+
+.item__list{
+    color: white;
+}
